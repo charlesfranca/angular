@@ -1,0 +1,14 @@
+{
+  "name": "unit_testin_with_angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "charles dos santos frança",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^0.13.15"
+  }
+}
